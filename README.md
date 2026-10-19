@@ -2,6 +2,7 @@
 
 An end-to-end analytics project on **1.07 million real transactions** from a UK online giftware wholesaler. Raw invoice lines are cleaned in Python, loaded into a Tableau Hyper extract and analysed in a **6-page interactive Tableau workbook**. The pages cover revenue performance, customer retention cohorts, RFM segmentation, product Pareto and market-basket analysis, and international markets.
 
+**Live dashboard:** [view it on Tableau Public](https://public.tableau.com/app/profile/uttkarsh.singh6558/viz/OnlineRetailCustomerRevenueIntelligence/ExecutiveOverview)
 **Tools:** Python (pandas, SciPy, Tableau Hyper API) · Tableau Desktop 2026.2
 **Data:** [UCI Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) (CC BY 4.0), Dec 2009 - Dec 2011
 

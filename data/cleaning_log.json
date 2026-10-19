@@ -1,0 +1,30 @@
+[
+  {
+    "step": "Remove sheet overlap (1-9 Dec 2010)",
+    "rows_before": 1067371,
+    "rows_after": 1044848,
+    "rows_removed": 22523,
+    "note": "Rows from the 2009-2010 sheet dated on/after 2010-12-01 also appear in the 2010-2011 sheet."
+  },
+  {
+    "step": "Drop partial month (1-9 Dec 2011)",
+    "rows_before": 1044848,
+    "rows_after": 1019322,
+    "rows_removed": 25526,
+    "note": "Keeps two complete Dec-Nov fiscal years so year-over-year comparisons are like-for-like."
+  },
+  {
+    "step": "Drop exact duplicate lines",
+    "rows_before": 1019322,
+    "rows_after": 1007789,
+    "rows_removed": 11533,
+    "note": "Identical lines inside the same invoice are treated as double scans."
+  },
+  {
+    "step": "Keep product sales & returns only",
+    "rows_before": 1007789,
+    "rows_after": 996132,
+    "rows_removed": 11657,
+    "note": "Removed lines: Zero / negative price: 5,909; Shipping, fees & manual: 5,722; Bad-debt adjustment: 6; reversed order errors: 20. Revenue = product sales net of returns."
+  }
+]

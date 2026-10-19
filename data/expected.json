@@ -1,0 +1,206 @@
+{
+  "total": {
+    "net_revenue": 18471339.74,
+    "gross_sales": 18925905.74,
+    "returns": 454566.0,
+    "return_rate": 0.024,
+    "orders": 38698,
+    "aov": 489.07,
+    "customers": 5824,
+    "units": 10779110
+  },
+  "FY2010": {
+    "net_revenue": 9140140.34,
+    "gross_sales": 9372651.95,
+    "returns": 232511.61,
+    "return_rate": 0.0248,
+    "orders": 19742,
+    "aov": 474.76,
+    "customers": 4239,
+    "units": 5608599
+  },
+  "FY2011": {
+    "net_revenue": 9331199.4,
+    "gross_sales": 9553253.79,
+    "returns": 222054.39,
+    "return_rate": 0.0232,
+    "orders": 18956,
+    "aov": 503.97,
+    "customers": 4292,
+    "units": 5170511
+  },
+  "yoy": {
+    "net_revenue": 0.0209,
+    "orders": -0.0398,
+    "aov": 0.0615,
+    "customers": 0.0125
+  },
+  "guest_share_of_net": 0.1335,
+  "registered_customers": 5824,
+  "repeat_rate": 0.7172,
+  "rfm_recency_cuts": [
+    18.0,
+    57.0,
+    189.0,
+    401.0
+  ],
+  "rfm_monetary_cuts": [
+    269.97,
+    579.64,
+    1163.29,
+    2771.39
+  ],
+  "segments": {
+    "Champions": {
+      "customers": 779,
+      "revenue": 8260951.99,
+      "cust_share": 0.13,
+      "rev_share": 0.52
+    },
+    "Loyal Customers": {
+      "customers": 1033,
+      "revenue": 4365310.98,
+      "cust_share": 0.18,
+      "rev_share": 0.27
+    },
+    "At Risk": {
+      "customers": 643,
+      "revenue": 911088.36,
+      "cust_share": 0.11,
+      "rev_share": 0.06
+    },
+    "Potential Loyalists": {
+      "customers": 708,
+      "revenue": 674231.44,
+      "cust_share": 0.12,
+      "rev_share": 0.04
+    },
+    "Hibernating": {
+      "customers": 1626,
+      "revenue": 667846.03,
+      "cust_share": 0.28,
+      "rev_share": 0.04
+    },
+    "Can't Lose Them": {
+      "customers": 58,
+      "revenue": 440897.02,
+      "cust_share": 0.01,
+      "rev_share": 0.03
+    },
+    "Need Attention": {
+      "customers": 281,
+      "revenue": 370581.82,
+      "cust_share": 0.05,
+      "rev_share": 0.02
+    },
+    "About to Sleep": {
+      "customers": 407,
+      "revenue": 214933.5,
+      "cust_share": 0.07,
+      "rev_share": 0.01
+    },
+    "Promising": {
+      "customers": 196,
+      "revenue": 73816.1,
+      "cust_share": 0.03,
+      "rev_share": 0.0
+    },
+    "New Customers": {
+      "customers": 93,
+      "revenue": 26529.81,
+      "cust_share": 0.02,
+      "rev_share": 0.0
+    }
+  },
+  "top20_customer_rev_share": 0.7675,
+  "cohort_sizes_first3": {
+    "2009-12": 951,
+    "2010-01": 368,
+    "2010-02": 375
+  },
+  "avg_retention": {
+    "M1": 0.2066,
+    "M3": 0.2103,
+    "M6": 0.1732,
+    "M12": 0.1793
+  },
+  "new_customers_FY": {
+    "2010": 4239,
+    "2011": 1585
+  },
+  "products": 4691,
+  "products_for_80pct": 1041,
+  "products_for_80pct_share": 0.2219,
+  "category_share": {
+    "Kitchen & Dining": 0.2387,
+    "Home Decor": 0.2177,
+    "Bags & Storage": 0.1694,
+    "Candles & Lighting": 0.0906,
+    "Other Gifts": 0.0809,
+    "Party & Gifting": 0.0552,
+    "Christmas & Seasonal": 0.0484,
+    "Toys & Kids": 0.0314,
+    "Personal & Wellness": 0.0298,
+    "Stationery & Craft": 0.0286,
+    "Garden & Outdoor": 0.0092
+  },
+  "category_return_rate": {
+    "Candles & Lighting": 0.0378,
+    "Kitchen & Dining": 0.0305,
+    "Stationery & Craft": 0.0272,
+    "Garden & Outdoor": 0.0231,
+    "Bags & Storage": 0.0222,
+    "Toys & Kids": 0.0195,
+    "Personal & Wellness": 0.0191,
+    "Christmas & Seasonal": 0.0187,
+    "Other Gifts": 0.0186,
+    "Home Decor": 0.0185,
+    "Party & Gifting": 0.0168
+  },
+  "uk_share": 0.8529,
+  "intl_yoy": 0.1413,
+  "uk_yoy": 0.0015,
+  "top_countries_ex_uk": {
+    "Ireland": 595993.57,
+    "Netherlands": 534367.41,
+    "Germany": 367728.81,
+    "France": 287039.93,
+    "Australia": 166282.15,
+    "Switzerland": 92918.06
+  },
+  "peak_month": [
+    "2011-11",
+    1427124.54
+  ],
+  "sep_nov_share": 0.3676,
+  "orders_by_weekday": {
+    "Thursday": 7926,
+    "Tuesday": 7032,
+    "Wednesday": 7010,
+    "Monday": 6119,
+    "Friday": 5824,
+    "Sunday": 4757,
+    "Saturday": 30
+  },
+  "peak_hour": 12,
+  "m1_retention_pooled": 0.2097,
+  "champions_rev_share": 0.5161,
+  "at_risk_revenue": 1351985.38,
+  "hibernating_customers": 1626,
+  "top20_by_p80_share": 0.7675,
+  "intl_share": 0.1471,
+  "countries": 40,
+  "products_sold": 4691,
+  "units_per_order": 278.5,
+  "avg_unit_price": 1.76,
+  "intl_FY2011": 1447874.78,
+  "uk_FY2011": 7883324.62,
+  "delta_by_region": {
+    "Central & Eastern Europe": 2968.0,
+    "Nordics": -4088.0,
+    "Rest of World": 140687.0,
+    "Southern Europe": 15821.0,
+    "United Kingdom": 9566.0,
+    "Western Europe": 26104.0
+  }
+}

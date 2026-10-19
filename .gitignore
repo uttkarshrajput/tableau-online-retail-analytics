@@ -1,0 +1,6 @@
+raw/
+data/*.csv
+data/*.hyper
+__pycache__/
+*.twb.bak
+~*.twbr
